@@ -1,13 +1,13 @@
 *{
-    background-color: aliceblue;
+    
     padding:0
     margin:0
 }
 
 .navbar{
     display: flex;
-    justify-content: space-around;
-    padding: 20px;
+    justify-content:space-around;
+    padding-left: 20px;
 }
 .signin{
     padding: 10px 25px;
@@ -17,4 +17,81 @@
     font-size: 20px;
     background-color: azure;
     color: #006A50;
+}
+
+.Ban{
+    color: rgb(102, 104, 102);
+}
+.banner{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+    background-color: #C6E4D6;
+    width: 1125px;
+    height: 560px;
+    margin-left: 400px;
+    border-radius: 20px;
+    text-decoration: none;
+
+}
+.boxleft{
+    margin-top: 150px;
+}
+.boxright{
+    margin-top: 120px;
+}
+.banner-title{
+    font-family:'Courier New',;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+.banner_btn{
+    padding: 10px 25px;
+    border-radius: 5px;
+    border-color: rgb(55, 133, 55);
+    border: none;
+    font-size: 15px;
+    font-style: normal;
+    color: #ffffff;
+    background-color: #006A50;
+
+}
+
+.main-page{
+
+    margin-left: 400px;
+    margin-right: 350px;
+}
+
+.pillar-title{
+    margin-top: 80px;
+    margin-left: 400px;
+}
+
+.inno-img{
+    width: 50px;
+}
+.sust-img{
+    width: 50px;
+}
+.infra-img{
+    width: 50px;
+}
+.emp-img{
+    width: 50px;
+}
+
+.box-style{
+    text-align: justify;
+    width: 300px;
+    height: 300px;
+    padding: 20px;
+    background-color: gainsboro;
+    border-radius: 5px;
+}
+.pillars{
+    display: flex;
+    justify-content:space-between;
+    padding: 10px;
+   
 }

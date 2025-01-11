@@ -172,7 +172,7 @@ main{
 
 .donatesection{
 
-    height: 500px;
+    height: 450px;
     width: 100%;
     background-color: #fafafa;
     margin-top: 30px;
@@ -231,3 +231,32 @@ main{
 /*Donate section end*/
 
 /*Footer section start*/
+
+.footer{
+    height:250px;
+    width: 100%;
+    background-color: #C6E4D6;
+    margin-top: 20px;
+    border-radius: 15px;
+    text-align: center;
+    padding-top: 30px;
+}
+#input{
+    width: 500px;
+    height: 25px;
+}
+
+.submit{
+    
+    margin-top: 10px;
+    padding: 10px 25px;
+    
+    border-color: rgb(55, 133, 55);
+    border: none;
+    font-size: 15px;
+    font-style: normal;
+    color: #ffffff;
+    background-color: #006A50;
+}
+
+/*Footer section end*/

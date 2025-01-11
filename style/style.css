@@ -4,6 +4,8 @@
     margin:0
 }
 
+/*Navbar style start*/
+
 .navbar{
     display: flex;
     justify-content:space-around;
@@ -20,6 +22,10 @@
     
 }
 
+/*Navbar style end*/
+
+
+/*Banner style start*/
 
 .Ban{
     color: rgb(102, 104, 102);
@@ -59,41 +65,48 @@
 
 }
 
-.main-page{
+/*Banner style end*/
 
-    margin-left: 400px;
-    margin-right: 350px;
-}
-
-.pillar-title{
-    margin-top: 80px;
-    margin-left: 400px;
-}
-
-.inno-img{
-    width: 50px;
-}
-.sust-img{
-    width: 50px;
-}
-.infra-img{
-    width: 50px;
-}
-.emp-img{
-    width: 50px;
-}
-
-.box-style{
+/*The Vision of Future style start*/
+.visionoffuture{
     text-align: justify;
-    width: 300px;
-    height: 300px;
-    padding: 20px;
-    background-color: gainsboro;
-    border-radius: 5px;
+    margin-left: 390px;
+    padding-top: 50px;
 }
-.pillars{
+.thevision{
     display: flex;
-    justify-content:space-between;
-    padding: 10px;
-   
+    gap: 20px;
 }
+
+.thevisionstyle{
+
+    text-align: justify;
+    width: 325px;
+    height: 200px;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 8px;
+}
+.digital{
+    background-color: #5490F5;
+    
+
+}
+.digiimg{
+    width: 50px;
+    
+}
+.green{
+    background-color: #09A15C;
+}
+.greenimg{
+    width: 50px;
+}
+.modern{
+    background-color: #FFC239;
+}
+.modimg{
+    width: 50px;
+}
+
+/*The Vision of Future style end*/

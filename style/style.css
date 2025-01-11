@@ -67,15 +67,22 @@
 
 /*Banner style end*/
 
+main{
+    width: 62%;
+    background-color: #fffefe;
+    margin: 0 auto;
+}
+
 /*The Vision of Future style start*/
 .visionoffuture{
-    text-align: justify;
-    margin-left: 390px;
-    padding-top: 50px;
+    text-align:justify;
+    padding: 30px;
+   
 }
 .thevision{
     display: flex;
-    gap: 20px;
+    justify-content: space-between;
+    gap: 30px;
 }
 
 .thevisionstyle{
@@ -110,3 +117,51 @@
 }
 
 /*The Vision of Future style end*/
+
+/*Recent News Section Start*/
+
+.newscontainer{
+    display: flex;
+    justify-content: space-around;
+    gap: 30px;
+    height: 350px;
+    width: 100%;
+    background-color: #f4f5f4;
+    margin-top: 20px;
+    padding-top: 40px;
+    
+}
+
+.date{
+    font-size: smaller;
+}
+.newsbutton{
+    padding: 10px 25px;
+    border-radius: 5px;
+    border-color: rgb(55, 133, 55);
+    border: none;
+    font-size: 15px;
+    font-style: normal;
+    color: #ffffff;
+    background-color: #006A50;
+}
+.imgbox{
+    
+    border-radius: 15px;
+}
+
+.newscontainertwo{
+    display: flex;
+    justify-content: space-around;
+    gap: 30px;
+    height: 350px;
+    width: 100%;
+    background-color: #f4f5f4;
+    margin-top: 20px;
+    padding-top: 40px;
+}
+.imgboxtwo{
+    height: 306px;
+    width: 420px;
+    border-radius: 15px;
+}

@@ -174,7 +174,7 @@ main{
 
     height: 500px;
     width: 100%;
-    background-color: #839683;
+    background-color: #fafafa;
     margin-top: 30px;
 }
 .donate{
@@ -186,13 +186,13 @@ main{
     height: 80px;
     width: 120px;
     border-radius: 10px;
-    background-color: #fffefe;
+    background-color: #ececec;
     
     
     
 }
 .box2{
-    background-color: #09A15C;
+    background-color: #238a4a;
 }
 .boxtext{
     font-weight: 100px;
@@ -215,6 +215,8 @@ main{
     
 }
 .donetbtn{
+    margin-left: 510px;
+    margin-top: 10px;
     padding: 10px 25px;
     border-radius: 5px;
     border-color: rgb(55, 133, 55);
@@ -225,6 +227,7 @@ main{
     background-color: #006A50;
 
 }
-.input-btn{
-    
-}
+
+/*Donate section end*/
+
+/*Footer section start*/

@@ -165,3 +165,66 @@ main{
     width: 420px;
     border-radius: 15px;
 }
+
+/*Recent News Section end*/
+
+/*Donate section start*/
+
+.donatesection{
+
+    height: 500px;
+    width: 100%;
+    background-color: #839683;
+    margin-top: 30px;
+}
+.donate{
+    text-align: center;
+    padding: 80px;
+    padding-top: 20px;
+}
+.box{
+    height: 80px;
+    width: 120px;
+    border-radius: 10px;
+    background-color: #fffefe;
+    
+    
+    
+}
+.box2{
+    background-color: #09A15C;
+}
+.boxtext{
+    font-weight: 100px;
+    text-align: center;
+    padding-top: 15px;
+}
+.donatebox{
+    display: flex;
+    justify-content:center;
+    gap: 20px;
+    padding-top: 20px;
+}
+
+.input{
+    width: 540px;
+    height: 30px;
+    margin-left: 310px;
+    margin-top: 20px;
+    border-radius: 10px;
+    
+}
+.donetbtn{
+    padding: 10px 25px;
+    border-radius: 5px;
+    border-color: rgb(55, 133, 55);
+    border: none;
+    font-size: 15px;
+    font-style: normal;
+    color: #ffffff;
+    background-color: #006A50;
+
+}
+.input-btn{
+    
+}
